@@ -1,2 +1,2 @@
 tasks:
- - command: sleep 10
+  - command: sleep 10
