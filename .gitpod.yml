@@ -1,3 +1,4 @@
-image: alpine:3.9
+image:
+  file: .gitpod.Dockerfile
 tasks:
   - command: sleep 20
