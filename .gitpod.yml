@@ -1,4 +1,4 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - command: sleep 20
+  - command: sleep 10
